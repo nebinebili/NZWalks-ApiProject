@@ -135,3 +135,4 @@ C:\Users\Admin\source\repos\NZWalks\NZWalksAPI\bin\Debug\net8.0\runtimes\win\lib
 C:\Users\Admin\source\repos\NZWalks\NZWalksAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Admin\source\repos\NZWalks\NZWalksAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Admin\source\repos\NZWalks\NZWalksAPI\obj\Debug\net8.0\NZWalksAPI.sourcelink.json
+C:\Users\Admin\source\repos\NZWalks\NZWalksAPI\bin\Debug\net8.0\AutoMapper.dll
