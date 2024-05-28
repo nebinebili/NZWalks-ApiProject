@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using NZWalksAPI.CustomActionFilters;
 using NZWalksAPI.Data;
 using NZWalksAPI.Models.Domain;
 using NZWalksAPI.Models.DTO;
@@ -24,15 +25,16 @@ namespace NZWalksAPI.Controllers
         }
 
         [HttpPost]
+        [ValidateModel]
         public async Task<IActionResult> Create([FromBody] AddWalkRequestDto addWalkRequestDto)
         {
-            var walkDomainModel = _mapper.Map<Walk>(addWalkRequestDto);
+           var walkDomainModel = _mapper.Map<Walk>(addWalkRequestDto);
 
-            walkDomainModel = await _walkRepository.CreateAsync(walkDomainModel);
+           walkDomainModel = await _walkRepository.CreateAsync(walkDomainModel);
 
-            var walkDto = _mapper.Map<WalkDto>(walkDomainModel);
+           var walkDto = _mapper.Map<WalkDto>(walkDomainModel);
 
-            return Ok(walkDto);
+           return Ok(walkDto);
         }
 
         [HttpGet]
@@ -79,19 +81,21 @@ namespace NZWalksAPI.Controllers
 
         [HttpPut]
         [Route("{id:Guid}")]
+        [ValidateModel]
         public async Task<IActionResult> Update([FromRoute] Guid id,UpdateWalkRequestDto updateWalkRequestDto)
         {
-            var walkDomainModel = _mapper.Map<Walk>(updateWalkRequestDto);
+                var walkDomainModel = _mapper.Map<Walk>(updateWalkRequestDto);
 
-           walkDomainModel=await _walkRepository.UpdateAsync(id, walkDomainModel);
+                walkDomainModel = await _walkRepository.UpdateAsync(id, walkDomainModel);
 
-            if (walkDomainModel == null)
-            {
-                return NotFound();
-            }
+                if (walkDomainModel == null)
+                {
+                    return NotFound();
+                }
 
-            var walkDto = _mapper.Map<WalkDto>(walkDomainModel);
-            return Ok(walkDto);
+                var walkDto = _mapper.Map<WalkDto>(walkDomainModel);
+                return Ok(walkDto);
+            
         }
     }
 }

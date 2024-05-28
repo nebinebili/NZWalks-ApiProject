@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\updatewalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateWalkRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\UpdateWalkRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T00:01:30.121Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,35 +32,35 @@
               "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\WalksController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Controllers\\WalksController.cs",
               "RelativeToolTip": "NZWalksAPI\\Controllers\\WalksController.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFoAAAANAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:45:19.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
-              "RelativeToolTip": "NZWalksAPI\\Repositories\\SQLWalkRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:23:52.26Z",
+              "WhenOpened": "2024-05-28T12:42:54.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Repositories\\IWalkRepository.cs",
-              "RelativeToolTip": "NZWalksAPI\\Repositories\\IWalkRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "NZWalksAPI\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:05:01.925Z",
+              "WhenOpened": "2024-05-28T12:37:54.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:36:54.939Z",
               "EditorCaption": ""
             }
           ]
