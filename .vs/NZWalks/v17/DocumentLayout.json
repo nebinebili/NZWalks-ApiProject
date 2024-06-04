@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\NZWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|c:\\users\\admin\\source\\repos\\nzwalks\\nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0B0055-A865-4312-96F4-F33BF391643D}|NZWalksAPI\\NZWalksAPI.csproj|solutionrelative:nzwalksapi\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +34,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NZWalksDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Data\\NZWalksDbContext.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Data\\NZWalksDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Data\\NZWalksDbContext.cs",
-              "RelativeToolTip": "NZWalksAPI\\Data\\NZWalksDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAFwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T21:34:14.982Z",
+              "WhenOpened": "2024-06-04T14:23:07.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Program.cs",
-              "RelativeToolTip": "NZWalksAPI\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA+AAAA",
+              "DocumentIndex": 1,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "NZWalksAPI\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:18:54.03Z",
+              "WhenOpened": "2024-06-04T14:19:32.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NZWalksAuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
-              "RelativeDocumentMoniker": "NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
-              "RelativeToolTip": "NZWalksAPI\\Data\\NZWalksAuthDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAAA6AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Program.cs",
+              "RelativeToolTip": "NZWalksAPI\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:16:44.129Z",
+              "WhenOpened": "2024-06-04T14:11:47.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "NZWalksAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\appsettings.json",
-              "RelativeToolTip": "NZWalksAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T19:14:35.519Z",
+              "DocumentIndex": 4,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "NZWalksAPI\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:00:36.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NZWalksAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NZWalks\\NZWalksAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NZWalksAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:05:31.197Z",
               "EditorCaption": ""
             }
           ]
